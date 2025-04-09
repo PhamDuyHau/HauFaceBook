@@ -1,6 +1,6 @@
 # HauFacebook
 
-A Facebook-like application built using **ReactJS**, **Node.js**, **Firebase**, **Material UI**, and **CSS**. This project aims to replicate some of Facebook's features, including user authentication, post creation, and commenting.
+This project allowed me to apply my knowledge in ReactJS, Node.js, and Firebase, where I overcame challenges related to implementing user authentication, managing posts, and using Firebase for real-time data. I utilized a variety of online resources, including tutorials, to solve real-world problems.
 
 ## Features
 
