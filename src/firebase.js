@@ -4,7 +4,6 @@ import { getAuth, signInWithPopup, GoogleAuthProvider } from 'firebase/auth';
 import { getFirestore } from 'firebase/firestore';
 // Your Firebase configuration
 const firebaseConfig = {
-    apiKey: 'AIzaSyAWW0GuF7KCBGNXyjJM5C7ZCTG4X8K-bo8',
     authDomain: 'hau-facebook.firebaseapp.com',
     projectId: 'hau-facebook',
     storageBucket: 'hau-facebook.firebasestorage.app',
